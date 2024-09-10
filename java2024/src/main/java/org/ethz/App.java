@@ -1,7 +1,7 @@
 package org.ethz;
 
 /**
- * Hello world!
+ *  world!
  *
  */
 public class App 
