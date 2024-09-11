@@ -2,7 +2,6 @@ package org.ethz;
 
 /**
  * Hello world!
- *
  */
 public class App 
 {
