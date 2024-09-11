@@ -5,11 +5,11 @@ package org.ethz;
  *
  */
 
- public class E1 {
-     public static void main(String[] args) {
-         int x = 2;
-         for (; x < 10; x++) {
-             System.out.println(x++);
-         }
-     }
- }
+ class Test {
+    public static void main(String[] args) {
+        int x = 0;
+        String y = "default";
+        System.out.println("x is " + x);
+        System.out.println("y is " + y);
+    }
+}
